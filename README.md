@@ -10,7 +10,7 @@ The Stanford Daneshjou Lab convened 80 multi-disciplinary experts to evaluate th
 
 ### Composition
 
-What do the instances that comprise the dataset represent (e.g., documents, photos, people, countries)?
+#### What do the instances that comprise the dataset represent (e.g., documents, photos, people, countries)?
 Instances represent text prompts inputted into ChatGPT. Each instance consists of the prompt, the ChatGPT output, the type of LLM used (GPT-3.5, GPT-4.0, GPT-4.0 with internet, etc), appropriateness of response, four main categories of inappropriate response (safety, privacy, hallucinations, and bias), and additional comments by medically-trained reviewers.  
 Are there multiple types of instances (e.g., movies, users, and ratings; people and interactions between them; nodes and edges)?
 There is only one type of instance
